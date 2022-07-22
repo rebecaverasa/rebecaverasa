@@ -1,9 +1,5 @@
 ### Hii 😊 I'm Rebeca Veras
 
-- 💻 I’m an intern at Instituto Atlântico
-- 🌱 I’m currently learning Go Lang and Backend
-- 🎲 Working on a 3D technology project
-
 <div align="center">
   <a href="https://github.com/rebecaverasa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rebecaverasa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
