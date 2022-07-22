@@ -2,6 +2,7 @@
 
 - 💻 I’m an intern at Instituto Atlântico
 - 🌱 I’m currently learning Go Lang and Backend
+- 🎲 Working on a 3D technology project
 
 <div align="center">
   <a href="https://github.com/rebecaverasa">
