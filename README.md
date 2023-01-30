@@ -1,4 +1,4 @@
-### Hii 😊 I'm Rebeca Veras
+### Hii 😊 I'm Rebeca
 
 <div align="left">
   <a href="https://github.com/rebecaverasa">
