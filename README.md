@@ -3,7 +3,7 @@ I'm from Fortaleza, Brasil
 
 - 🔭 I’m working as Fullstack developer Intern
 - 📚 I'm currently learning React and Typescript
-- ⚡ In my free time I practice Taekwondo, read, play videogames and boardgames 
+- ⚡ In my free time I work on personal projects, practice Taekwondo, read, play videogames and boardgames 
 
 <div align="left">
   <a href="https://github.com/rebecaverasa">
