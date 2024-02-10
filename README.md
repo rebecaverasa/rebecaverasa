@@ -2,7 +2,7 @@
 I'm from Fortaleza, Brasil
 
 - 🔭 I’m working as a Fullstack software developer
-- 📚 I'm currently learning React and Typescript
+- 📚 I'm currently learning Java and PHP
 - ⚡ In my free time I work on personal projects, practice Taekwondo, read, play videogames and boardgames 
 
 <div align="left">
