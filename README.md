@@ -1,8 +1,8 @@
 ### Hii 😊 I'm Rebeca Veras
 I'm from Fortaleza, Brasil
 
-- 🔭 I’m working as a Fullstack software developer
-- 📚 I'm currently learning Java and PHP
+- 🔭 I’m working as a Front-end developer
+- 📚 I'm currently learning React
 - ⚡ In my free time I work on personal projects, practice Taekwondo, read, play videogames and boardgames 
 
 <div align="left">
