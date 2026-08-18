@@ -2,7 +2,7 @@
 I'm from Fortaleza, Brasil
 
 - 🔭 I’m working as a Fullstack developer
-- 📚 I'm currently learning React
+- 📚 Love React and Python
 - ⚡ In my free time I work on personal projects, practice Taekwondo, read, play videogames and boardgames 
 
 <div align="left">
